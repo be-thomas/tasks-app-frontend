@@ -1,7 +1,7 @@
 import axios from "axios";
 
 let baseURI = "https://api.tasks.be-thomas.com"
-baseURI = "http://localhost:9101"
+// baseURI = "http://localhost:9101"
 let accessToken = null;
 
 
